@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AppDigitalBank</string>
+    <string name="txt_nome_usuario">Olá,Thiago</string>
+    <string name="txt_saldo">Conta \n\n R$ 1.000,00</string>
+    <string name="txt_cartoes">Meus Cartões</string>
+    <string name="txt_cartao_credito">Cartão de Crédito</string>
+    <string name="txt_fatura">Fatura Atual</string>
+    <string name="txt_dinhero_fatura">R$ 220,00</string>
+    <string name="txt_limite_disponivel">Limite diponível de R$ 3200,00</string>
+    <string name="txt_parcelar_compras">Parcelar Compras</string>
+    <string name="todo">TODO</string>
+
+</resources>
